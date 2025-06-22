@@ -1,0 +1,29 @@
+1000000
+Add 801 1 2
+Get
+Add 802 4 3
+Get
+Add 803 2 4
+Get
+Add 804 1 5
+Get
+Add 805 10 6
+Get
+Add 806 20 8
+Get
+Add 807 30 10
+Get
+Add 808 40 11
+Get
+Add 809 50 15
+Get
+Add 810 60 18
+Get
+Add 811 70 20
+Get
+Add 812 80 999
+Get
+Add 813 4 10000
+Get
+Add 814 1 10001
+Get

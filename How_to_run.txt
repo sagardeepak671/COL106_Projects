@@ -1,0 +1,5 @@
+open terminal in the assX_final folder 
+run command - py main.py
+or test_file_name.py if other test files there
+it will print the output.
+we are not taking input from the terminal test cases can me updated in the main.py

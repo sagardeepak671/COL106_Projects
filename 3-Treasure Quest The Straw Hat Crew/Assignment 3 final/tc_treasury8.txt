@@ -1,0 +1,17 @@
+1
+Add 900 100 2
+Get
+Add 901 96 4
+Get
+Add 90 92 6
+Get
+Add 89 90 8
+Get
+Add 88 90 10
+Get
+Add 70 80 12
+Get
+Add 9999 10 1000
+Get
+Add 9998 11 1001
+Get
